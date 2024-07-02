@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7c481d-ca1a-4942-8615-221405207668" name="Changes" comment="" />
+    <list default="true" id="4f7c481d-ca1a-4942-8615-221405207668" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/3_29 if and else and conditional operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_34 Body Max Index &amp; Logical Operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "agencylink711"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;agencylink711&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:/agencylink711/Projects.git",
-    "accountId": "f3844d82-83e7-432c-9cba-aca669783ac8"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:/agencylink711/Projects.git&quot;,
+    &quot;accountId&quot;: &quot;f3844d82-83e7-432c-9cba-aca669783ac8&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2iaWD5CGH6tcfKye0hR39Tige70" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,6 +50,8 @@
     "Python.2_24_BMI_Calculator.executor": "Run",
     "Python.2_26_Life_in_a_week.executor": "Run",
     "Python.2_27_Tip_Calculator.executor": "Run",
+    "Python.3_29 if and else and conditional operators.executor": "Run",
+    "Python.3_34 Body Max Index & Logical Operators.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   },
@@ -105,7 +111,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719744015068</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Practicing Python">
+      <option name="closed" value="true" />
+      <created>1719744073123</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719744073123</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Practicing Python">
+      <option name="closed" value="true" />
+      <created>1719744247567</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719744247567</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
