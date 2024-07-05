@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f7c481d-ca1a-4942-8615-221405207668" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/3_29 if and else and conditional operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_34 Body Max Index &amp; Logical Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10a_OOP_PT1_Classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_37 Pizza Order Program.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_29 if and else and conditional operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_29 if and else and conditional operators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +48,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.10a_OOP_PT1_Classes.executor": "Run",
     "Python.2_24_BMI_Calculator.executor": "Run",
     "Python.2_26_Life_in_a_week.executor": "Run",
     "Python.2_27_Tip_Calculator.executor": "Run",
     "Python.3_29 if and else and conditional operators.executor": "Run",
     "Python.3_34 Body Max Index & Logical Operators.executor": "Run",
     "Python.3_35 LEAP YEAR Checker.executor": "Run",
+    "Python.3_37 Pizza Order Program.executor": "Run",
+    "Python.3_39 Love Score Checker.executor": "Run",
+    "Python.3_40 Treasure Island Guess Game.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   },
@@ -160,11 +165,28 @@
       <option name="project" value="LOCAL" />
       <updated>1719902631524</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1719902803670</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1719902803670</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1719902809905</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1719902809905</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Practicing Python" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practicing Python" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
 </project>
