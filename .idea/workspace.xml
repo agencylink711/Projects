@@ -58,12 +58,6 @@
     "Python.3_37 Pizza Order Program.executor": "Run",
     "Python.3_39 Love Score Checker.executor": "Run",
     "Python.3_40 Treasure Island Guess Game.executor": "Run",
-    "Python.4_43 Random Module.executor": "Run",
-    "Python.4_44 Random Module Heads or Tails Game.executor": "Run",
-    "Python.4_45 Lists in Python_Offset and Appending.executor": "Run",
-    "Python.4_46_Code Exercise_Banker Roulette.executor": "Run",
-    "Python.4_48 Treasure Map_Code Exercise.executor": "Run",
-    "Python.4_49 Final Section Project_Rock Paper Scissors Game.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   },
@@ -75,11 +69,6 @@
     ]
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/4 RANDOMISATION &amp; PYTHON LISTS" />
-    </key>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -192,91 +181,8 @@
       <option name="project" value="LOCAL" />
       <updated>1719902809905</updated>
     </task>
-    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1720160395399</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1720160395399</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1720160403182</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1720160403182</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1720160428415</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1720160428415</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1720160434763</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1720160434763</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1720160563790</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1720160563790</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1720160621228</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1720160621228</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1720164825320</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1720164825320</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1720164839912</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1720164839912</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1720164913379</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1720164913379</updated>
-    </task>
-    <option name="localTasksCounter" value="22" />
+    <option name="localTasksCounter" value="13" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Practicing Python" />
