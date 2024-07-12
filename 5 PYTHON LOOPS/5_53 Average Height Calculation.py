@@ -2,6 +2,7 @@
 
 # The next 3 lines of code will turn student_heights into a list
 
+# Initializing the list with "String values" and converting them into integer.
 student_heights = ["151", "145", "179"]
 for n in range(0, len(student_heights)):
     student_heights[n] = int(student_heights[n])
