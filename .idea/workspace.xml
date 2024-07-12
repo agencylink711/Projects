@@ -5,28 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f7c481d-ca1a-4942-8615-221405207668" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/5 PYTHON LOOPS/5_54 Code Excercise_High Score.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5 PYTHON LOOPS/5_56 Coding Excercise_Adding Even Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5 PYTHON LOOPS/5_57 Code Excercise_Fizz Buzz Job Interview Question.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5 PYTHON LOOPS/5_58 Final Section Project_Password Generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 PYTHON FUNCTIONS &amp; KAREL/6_60 Defining &amp; Calling Python Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 PROGRAMMING THE HANGMAN GAME/7_71 Picking Random Words &amp; Checking Answers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 PROGRAMMING THE HANGMAN GAME/7_73 Replacing Blanks with guesses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 PROGRAMMING THE HANGMAN GAME/7_76 How to check if the player won.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 PROGRAMMING THE HANGMAN GAME/7_78 How to keep track of the Players lives.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 PROGRAMMING THE HANGMAN GAME/7_80 Improving User Experience/7_80 User Experience Adding Modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 PROGRAMMING THE HANGMAN GAME/7_80 Improving User Experience/hangman_art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 PROGRAMMING THE HANGMAN GAME/7_80 Improving User Experience/hangman_words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8 Function Parameter &amp; Ceasar Cipher/8_83 Functions with Inputs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8 Function Parameter &amp; Ceasar Cipher/8_85 Coding Exercise_Paint Area Calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8 Function Parameter &amp; Ceasar Cipher/8_86 Coding Excercise_Prime Number Checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8 Function Parameter &amp; Ceasar Cipher/CODING Ceasar Ciper/Part 1 Encryption.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8 Function Parameter &amp; Ceasar Cipher/CODING Ceasar Ciper/Part 2 Decrypt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8 Function Parameter &amp; Ceasar Cipher/CODING Ceasar Ciper/Part 3 Reorganising our code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8 Function Parameter &amp; Ceasar Cipher/CODING Ceasar Ciper/Part 4 User Experience Improvement &amp; Final Touches.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8 Function Parameter &amp; Ceasar Cipher/CODING Ceasar Ciper/art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10a_OOP_PT1_Classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_37 Pizza Order Program.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5 PYTHON LOOPS/5_53 Average Height Calculation.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 PYTHON LOOPS/5_53 Average Height Calculation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_29 if and else and conditional operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_29 if and else and conditional operators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,29 +58,8 @@
     "Python.3_37 Pizza Order Program.executor": "Run",
     "Python.3_39 Love Score Checker.executor": "Run",
     "Python.3_40 Treasure Island Guess Game.executor": "Run",
-    "Python.5_52 Using the for Loop with Python Lists.executor": "Run",
-    "Python.5_53 Average Height Calculation.executor": "Run",
-    "Python.5_54 Code Excercise_High Score.executor": "Run",
-    "Python.5_56 Coding Excercise_Adding Even Numbers.executor": "Run",
-    "Python.5_57 Code Excercise_Fizz Buzz Job Interview Question.executor": "Run",
-    "Python.5_58 Final Section Project_Password Generator.executor": "Run",
-    "Python.6_60 Defining & Calling Python Functions.executor": "Run",
-    "Python.7_71 Picking Random Words & Checking Answers.executor": "Run",
-    "Python.7_73 Replacing Blanks with guesses.executor": "Run",
-    "Python.7_78 How to keep track of the Players lives.executor": "Run",
-    "Python.7_80 User Experience Adding Modules.executor": "Run",
-    "Python.8_83 Functions with Inputs.executor": "Run",
-    "Python.8_85 Coding Exercise_Paint Area Calculator.executor": "Run",
-    "Python.8_86 Coding Excercise_Prime Number Checker.executor": "Run",
-    "Python.9_93 The Python Dictionary_Deep Dive.executor": "Run",
-    "Python.9_94 Coding Exercise_Grading Programm.executor": "Run",
-    "Python.Part 1 Encryption.executor": "Run",
-    "Python.Part 2 Decrypt.executor": "Run",
-    "Python.Part 3 Reorganising our code.executor": "Run",
-    "Python.Part 4 User Experience Improvement & Final Touches.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "git-widget-placeholder": "master"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -108,11 +69,6 @@
     ]
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/8 Function Parameter &amp; Ceasar Cipher/CODING Ceasar Ciper" />
-    </key>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -225,76 +181,11 @@
       <option name="project" value="LOCAL" />
       <updated>1719902809905</updated>
     </task>
-    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <option name="closed" value="true" />
-      <created>1720262783253</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1720262783253</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <option name="closed" value="true" />
-      <created>1720267109349</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1720267109349</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <option name="closed" value="true" />
-      <created>1720267146129</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1720267146129</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1720267205045</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1720267205045</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1720267259658</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1720267259658</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1720330142740</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1720330142740</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1720330204888</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1720330204888</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1720330228660</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1720330228660</updated>
-    </task>
-    <option name="localTasksCounter" value="21" />
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Practicing Python" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
